@@ -1,0 +1,28 @@
+.showAll {
+    cursor: pointer;
+}
+
+.showAll:hover {
+    font-size:14px;
+    border-radius: 3px;
+    padding: 4px;
+}
+
+.close {
+    position: relative;
+    float: right;
+    margin-top: -3.5rem;
+    margin-right: 1.5rem;
+    cursor: pointer;
+}
+
+.close:hover{
+    color: olivedrab;
+}
+
+@media screen and (max-width: 768px) {
+
+    .container {
+        width: 100%;
+    }
+}

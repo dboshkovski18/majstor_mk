@@ -1,0 +1,10 @@
+.top-bg{
+    background-image: linear-gradient(#9d019d, #810081);
+}
+
+.page-link{
+    background-color: lavender;
+    border-radius: 20px;
+    margin: auto;
+    text-decoration: none;
+}

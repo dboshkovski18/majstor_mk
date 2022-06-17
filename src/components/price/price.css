@@ -1,0 +1,22 @@
+.standard-packet-card {
+    background-color: orange;
+    border-radius: 20px;
+    padding: 1rem;
+    margin: 1rem 0rem 1rem 0rem;
+}
+
+.silver-packet-card {
+    background-color: #f29aff;
+    border-radius: 20px;
+    padding: 1rem;
+    margin: 1rem 0rem 1rem 0rem;
+
+}
+
+.gold-packet-card {
+    background-color: #ff4d1c;
+    border-radius: 20px;
+    padding: 1rem;
+    margin: 1rem 0rem 1rem 0rem;
+
+}

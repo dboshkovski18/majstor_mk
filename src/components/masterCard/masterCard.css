@@ -1,0 +1,14 @@
+.rating{
+    position: relative;
+    float: right;
+    margin-top:-.5rem;
+    width: 2rem;
+
+}
+
+
+@media screen and (min-width: 768px){
+    .call-mobile{
+        visibility: hidden;
+    }
+}
